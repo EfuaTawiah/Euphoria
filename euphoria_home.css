@@ -1,0 +1,25 @@
+.bigBanner
+{
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("C:\\Users\\EMMANUELLA SOWAH\\Documents\\euphoria_main\\images\\back1.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	
+}
+
+.display-4
+
+{
+	margin-left: 600px;
+	margin-top: 300px;
+	background-color: #6f006f;
+	opacity: 0.8;
+}
+.jumbo
+{
+margin-left: 600px;
+margin-top: 0px;
+
+	
+}
+
